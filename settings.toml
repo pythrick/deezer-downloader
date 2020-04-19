@@ -1,0 +1,3 @@
+[default]
+DATABASE_URI = "sqlite:///db.sqlite3"
+DESTINATION_DIR = "~/Music"
